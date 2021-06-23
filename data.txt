@@ -1,0 +1,9 @@
+Muhammad Warzan     Abdul Qadir     25     02     2003     26548787526987     03347562876     Gulshan-e-Iqbal,Karachi     mohammadwarzan25@gmail.com     123454892653457     1000000Rupees 
+Abdul Raffay     Raffay Ahmed     05     01     2000     72356725968669     03456975338     North Nazimabad     abdulraffay05@gmail.com     4689653945998946     5008426Rupees
+Muhammad Awwab     Sabir Ahmed     13     12     2000     48658439683789     03134536578     Quaidabad     muhammadawwab13@gmail.com     8249656042994696     300000Rupees
+Laraib Khalid      Muhammad Khalid     25     05     1997     84965902465062     03333457564     Sadar Town     laraibkhalid25@gmail.com     8923569846987659     1000Rupees  
+Muhammad Danish     Yaqoob Ali     12     08     2000     89326598624859     03156758456     Gulshan-e-Maymar     muhammaddanish12@gmail.com     8429658698366967     200000Rupees
+Kashif Ahmed     Ahmed Ansari     20     11     2001     89246593848924     03355639386     Defence Phase II     kashifahmed20@gmail.com     8932568426058958     5000000Rupees 
+Jehangir Abrar     Muhammad Abrar     26     10     2002     82496509680820     03151546374     Gulistan-e-Jauhar     jehangirabrar26@gmail.com     80346589240248685     4000Rupees    
+ 
+   
